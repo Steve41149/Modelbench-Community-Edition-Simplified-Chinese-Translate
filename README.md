@@ -1,6 +1,6 @@
 # Modelbench-Community-Edition-Chinese-Translate
 ## 这是Modelbench CE的汉化版
-## WARNING：由于本人于2024年11月10日退圈，本汉化现已经停止更新，不要再投issue了，我已经不打算继续维护了，该仓库属于是被抛弃的阶段了，不要再找我了  
+## WARNING：由于本人于2024年11月10日退圈，本汉化现已经停止更新，不要再投issue了，我已经不打算继续维护了，该仓库属于是被抛弃的阶段，不要再找我了  
   
 没错，还是我，逆天汉化的作者Diamond_Block  
   
